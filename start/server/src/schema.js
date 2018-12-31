@@ -5,10 +5,8 @@ const typeDefs = gql`
     type Query {
         #returns an array of launches that will never be null (!)
         launches: [Launch]! 
-
         #The query takes an argument of (id) and retunrs a single launch
         launch(id: ID!): Launch
-
         # Queries for the current user
         me: User
     }
