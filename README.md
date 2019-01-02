@@ -1,5 +1,7 @@
 # GraphQl-ApolloTut
 
+Tutorial is not easy to follow and complicated for no reason
+
 # To fire up the engines 
 in the /server dir
  
