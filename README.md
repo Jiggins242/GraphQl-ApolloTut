@@ -1,7 +1,8 @@
 # GraphQl-ApolloTut
 
 # To fire up the engines 
-in the /server dir 
+in the /server dir
+ 
 run: npm start
 
 ## Following the tutorial from Apollo
